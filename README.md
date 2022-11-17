@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Introduction](#introduction)
+- [Demo](#Demo)
 - [Run](#run)
 - [Technology](#technology)
 - [License](#license)
@@ -12,6 +13,12 @@
 A toDo list website using Node js, Express js,react.js and MongoDb.
 
 NOTE: Please read the RUN section before opening an issue.
+
+## Demo
+
+![screenshot](https://github.com/Abdullaks/Todo-list/blob/main/Screenshot%20-login.jpg)
+![screenshot](https://github.com/Abdullaks/Todo-list/blob/main/Screenshot-homepage.jpg)
+![screenshot](https://github.com/Abdullaks/Todo-list/blob/main/Screenshot-taskdone.jpg)
 
 
 
